@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#ECEBEB"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/recycle_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ID"
+        android:textColor="#aa7700ff"
+        android:textSize="50dp"
+        android:padding="10dp"/>
+
+    <TextView
+        android:id="@+id/rrecycle_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="title"
+        android:textSize="30dp" />
+
+    <TextView
+        android:id="@+id/rrecycle_txt"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="title"
+        android:textSize="30dp" />
+
+
+</LinearLayout>
